@@ -1,0 +1,29 @@
+{
+    "photoUrls": [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+    ],
+    "name": "köpek",
+    "id": 123,
+    "category": {
+        "name": "String",
+        "id": 0
+    },
+    "tags": [{
+        "name": "string",
+        "id": 0
+    }],
+    "status": "abc"
+}
